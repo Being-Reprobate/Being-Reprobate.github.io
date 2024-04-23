@@ -3,6 +3,8 @@
 
 *Backend Dockerfile*
 
+![backend dockerfile](https://github.com/Being-Reprobate/being-reprobate.github.io/assets/145685176/92a6aef4-060f-4dab-be47-545816d303f7)
+
  - Use the official Node.js image as a base image
  bash 
  FROM node:14
@@ -33,6 +35,7 @@
  
 
 *Database Dockerfile*
+![database dockerfile](https://github.com/Being-Reprobate/being-reprobate.github.io/assets/145685176/31b1f719-f943-42c6-bfc4-c2f7c54d1467)
 
  bash
  FROM mysql:latest
@@ -57,6 +60,7 @@
 
 
 *Frontend Dockerfile*
+![frontend dockerfile](https://github.com/Being-Reprobate/being-reprobate.github.io/assets/145685176/e3c03872-5655-419f-b927-e80f16666deb)
 
  - Run latest node 
  
