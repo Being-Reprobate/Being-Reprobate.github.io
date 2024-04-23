@@ -1,5 +1,3 @@
-title: Docker Three Tier Architecture 
----
 
 # Three-Tier Application Deployment using Dockerfile
 
