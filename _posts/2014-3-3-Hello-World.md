@@ -1,17 +1,8 @@
-Slayout: post
 title: Docker Three Tier Architecture 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 # Three-Tier Application Deployment using Dockerfile
 
-![Architecture](assets/Infra.gif)
-
-This repository demonstrates the deployment of a three-tier application using Docker, focusing on individual Dockerfiles for each component. The application comprises a MySQL database, a Node.js backend, and a React.js frontend.
 
 ## Prerequisites
 
@@ -26,9 +17,7 @@ Before you begin, ensure that you have the following installed:
 - *mysql*: Dockerfile and configurations for the MySQL database.
 
 ## Dockerfile(Database)
-![Alt Text](https://raw.githubusercontent.com/Being-Reprobate/being-reprobate.github.io/blob/master/images/database%20dockerfile.png)
-
-
+![Alt Text](https://raw.githubusercontent.com/chitt31/chitt31.github.io/master/images/33.PNG)
 
 
 ## Dockerfile(Backend)
