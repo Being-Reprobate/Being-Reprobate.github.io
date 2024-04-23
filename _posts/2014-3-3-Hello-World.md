@@ -67,7 +67,7 @@ Before you begin, ensure that you have the following installed:
      docker build -t backend .
      
      ![Alt Text](https://raw.githubusercontent.com/Being-Reprobate/being-reprobate.github.io/master/images/backend%20image%20build.png)
-     ![Alt Text](https://raw.githubusercontent.com/Being-Reprobate/being-reprobate.github.iomaster/images/backend%20image%20build2.png)
+     ![Alt Text](https://raw.githubusercontent.com/Being-Reprobate/being-reprobate.github.io/master/images/backend%20image%20build2.png)
 
    - Run the backend container:
      bash
